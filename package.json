@@ -1,0 +1,29 @@
+{
+  "name": "left-split",
+  "version": "1.0.0",
+  "description": "Split string capture group retained on left",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jamesramsay/left-split.git"
+  },
+  "author": "James Ramsay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesramsay/left-split/issues"
+  },
+  "homepage": "https://github.com/jamesramsay/left-split#readme",
+  "keywords": [
+    "leftsplit",
+    "left",
+    "string",
+    "split",
+    "splitting"
+  ],
+  "devDependencies": {
+    "tape": "*"
+  }
+}
